@@ -1,3 +1,5 @@
+https://mybinder.org/v2/gh/NLeSC/structure-from-motion/master
+
 Structure From Motion Pipeline
 ------------------------------
 
